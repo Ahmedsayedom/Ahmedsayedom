@@ -66,14 +66,15 @@ Here are some of the projects I've worked on:
 
 1. Project 1
 
-   - Description of the project
-   - GitHub Repository: [Project 1 Repo](link-to-project-repo)
+   - GitHub Repository: [Project 1 Repo](https://github.com/AhmedGhaly/E-Commerce)
 
 2. Project 2
-   - Description of the project
-   - GitHub Repository: [Project 2 Repo](link-to-project-repo)
+
+   - GitHub Repository: [Project 2 Repo](https://github.com/AhmedGhaly/RestaurantAPI)
 
 ## Fun Facts
+
+⚡ Fun fact:
 
 - I love coding and coffee.
 - I'm always eager to learn new technologies.
