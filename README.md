@@ -2,6 +2,7 @@
 <h1 align="center">Hi there 👋 My Name is Ahmed Sayed <br>
  Welcome To My Github Profile ♥</h1>
 </div>
+
 <!--
 **Ahmedsayedom/Ahmedsayedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
   <!--- snake -->
 <div align="center">
@@ -28,11 +30,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://camo.githubusercontent.com/9ffd5451fd8cbf097468967332b133901f99b1e728d765baec1d1d0269449f10/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d46756c6c2d737461636b253230646576656c6f7065723b416c776179732532306c6561726e696e672532306e65772532307468696e677326666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d343430266865696768743d343526636f6c6f723d663735633765267643656e7465723d747275652673697a653d3232" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20developer;Always%20learning%20new%20things&amp;font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=f75c7e&amp;vCenter=true&amp;size=22" style="max-width: 100%;"></a>
 </p>
 
-## About Me
+## <i class="fas fa-user"></i> About Me
 
 Hi there! I'm Ahmed, a motivated and results-driven individual with a passion for software development. With excellent communication and collaboration abilities, I am confident that I can contribute to the success of any software development team. I am eager to continue developing my skills.
 
-## Skills
+## <i class="fab fa-code"></i> Skills
 
 - Front-end Development
 - Back-end Development
