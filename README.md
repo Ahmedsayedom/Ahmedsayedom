@@ -55,26 +55,24 @@ Hi there! I'm Ahmed, a passionate full-stack web developer based in Egypt. I lov
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19d98ab99fe0a1a5c00ef27920be3ada8548f2476877db0598960ac2a5f8788d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333"><img src="https://camo.githubusercontent.com/19d98ab99fe0a1a5c00ef27920be3ada8548f2476877db0598960ac2a5f8788d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&amp;logo=css3" style="max-width: 100%;"></a>
 </p>
 
-## Let's Connect!
+## 📫 Let's Connect!
 
 You can reach me via email at <a href="mailto:frggtf66@gmail.com"><img src="https://camo.githubusercontent.com/67f7aa5642352130fb5b0784d88c31cf0e755eab8e5c72449d2471bc938a2605/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a61686d65646768616c7934343740676d61696c2e636f6d" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:frggtf66@gmail.com" style="max-width: 100%;"></a> or connect with me on LinkedIn:
 <a href="https://www.linkedin.com/in/ahmed-sayed-936710203" rel="nofollow"><img src="https://img.shields.io/badge/-Ahmed%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"></a>
 
-## Projects
+## 🔭 Projects
 
 Here are some of the projects I've worked on:
 
-1. Project 1
+1. E-Commerce
 
    - GitHub Repository: [Project 1 Repo](https://github.com/AhmedGhaly/E-Commerce)
 
-2. Project 2
+2. RestaurantAPI
 
    - GitHub Repository: [Project 2 Repo](https://github.com/AhmedGhaly/RestaurantAPI)
 
-## Fun Facts
-
-⚡ Fun fact:
+## ⚡ Fun fact
 
 - I love coding and coffee.
 - I'm always eager to learn new technologies.
