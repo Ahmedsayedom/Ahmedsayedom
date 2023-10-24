@@ -68,11 +68,11 @@ Here are some of the projects I've worked on:
 
 1. E-Commerce
 
-   - GitHub Repository: [Project 1 Repo](https://github.com/AhmedGhaly/E-Commerce)
+   - GitHub Repository: [E-Commerce Repo](https://github.com/AhmedGhaly/E-Commerce)
 
 2. RestaurantAPI
 
-   - GitHub Repository: [Project 2 Repo](https://github.com/AhmedGhaly/RestaurantAPI)
+   - GitHub Repository: [RestaurantAPI Repo](https://github.com/AhmedGhaly/RestaurantAPI)
 
 ## ⚡ Fun fact
 
