@@ -68,11 +68,15 @@ Here are some of the projects I've worked on:
 
 1. E-Commerce
 
-   - GitHub Repository: [E-Commerce Repo](https://github.com/AhmedGhaly/E-Commerce)
+   - GitHub Repository: [E-Commerce Repo](https://github.com/Ahmedsayedom/E-Commerce)
 
 2. RestaurantAPI
 
    - GitHub Repository: [RestaurantAPI Repo](https://github.com/AhmedGhaly/RestaurantAPI)
+
+2. Simple-E-Commerce
+
+   - GitHub Repository: [Simple-E-Commerce Repo](https://github.com/Ahmedsayedom/Simple-E-Commerce)
 
 ## ⚡ Fun fact
 
