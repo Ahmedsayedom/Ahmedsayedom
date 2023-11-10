@@ -66,15 +66,20 @@ You can reach me via email at <a href="mailto:frggtf66@gmail.com"><img src="http
 
 Here are some of the projects I've worked on:
 
-1. E-Commerce
 
-   - GitHub Repository: [E-Commerce Repo](https://github.com/Ahmedsayedom/E-Commerce)
+1. Restaurant_Project
+
+   - GitHub Repository: [Restaurant Project Repo](https://github.com/Ahmedsayedom/Restaurant_Project)
 
 2. RestaurantAPI
 
-   - GitHub Repository: [RestaurantAPI Repo](https://github.com/AhmedGhaly/RestaurantAPI)
+   - GitHub Repository: [RestaurantAPI Repo]((https://github.com/Ahmedsayedom/RestaurantAPI))
 
-2. Simple-E-Commerce
+3. E-Commerce
+
+   - GitHub Repository: [E-Commerce Repo](https://github.com/Ahmedsayedom/E-Commerce)
+
+4. Simple-E-Commerce
 
    - GitHub Repository: [Simple-E-Commerce Repo](https://github.com/Ahmedsayedom/Simple-E-Commerce)
 
