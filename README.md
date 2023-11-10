@@ -73,7 +73,7 @@ Here are some of the projects I've worked on:
 
 2. RestaurantAPI
 
-   - GitHub Repository: [RestaurantAPI Repo]((https://github.com/Ahmedsayedom/RestaurantAPI))
+   - GitHub Repository: [RestaurantAPI Repo](https://github.com/Ahmedsayedom/RestaurantAPI)
 
 3. E-Commerce
 
