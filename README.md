@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" dir="auto">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22)(https://github.com/DenverCoder1/readme-typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22)](https://git.io/typing-svg)
 </p>
 
 ## <i class="fas fa-user"></i> About Me
