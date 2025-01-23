@@ -63,7 +63,7 @@ Hi there! I'm Ahmed, a motivated and results-driven individual with a passion fo
 ## 📫 Let's Connect!
 
 You can reach me via email at [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:frggtf66@gmail.com)](mailto:frggtf66@gmail.com) or connect with me on LinkedIn:
-[![Ahmed Sayed](https://img.shields.io/badge/-Ahmed%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sayed-936710203) and My portfolio is  ![Portfoilo](https://ahmedsayedom.github.io/Ahmed-portfolio/)
+[![Ahmed Sayed](https://img.shields.io/badge/-Ahmed%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sayed-936710203) and My portfolio is  [![Portfolio](https://img.shields.io/badge/-Ahmed%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://ahmedsayedom.github.io/Ahmed-portfolio/)
 
 ## 🔭 Projects
 
